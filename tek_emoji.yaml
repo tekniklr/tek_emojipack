@@ -54,8 +54,6 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/lemongrab.gif
   - name: lsp
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/lsp.gif
-  - name: mortified
-    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/mortified.png
   - name: mr_saturn
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/mr_saturn.gif
   - name: neko_hero
