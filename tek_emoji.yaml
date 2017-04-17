@@ -1,5 +1,9 @@
 title: tek's emoji
 emojis:
+  - name: 0
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/0.png
+  - name: 1up
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/1up.png
   - name: air_quotes_close
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/air_quotes_close.gif
   - name: air_quotes_open
@@ -8,22 +12,26 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/allthethings.png
   - name: bbod
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/bbod.gif
-  - name: isaac
-    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/biblethump.png
   - name: bloodtrail
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/bloodtrail.png
   - name: burgerspin
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/burgerspin.gif
+  - name: cake
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/cake.jpg
   - name: chrono_yes
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/chrono_yes.gif
   - name: cmonbruh
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/cmonbruh.png
   - name: coin
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/coin.gif
+  - name: crow
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/crow.png
   - name: dancing-baby-finn
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/dancing-baby-finn.gif
   - name: dickbutt
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/dickbutt.jpg
+  - name: disapproval
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/disapproval.png
   - name: dobbshead
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/dobbshead.gif
   - name: dumpster_fire
@@ -32,6 +40,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/facepalm.png
   - name: failfish
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/failfish.png
+  - name: fart
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/fart.png
   - name: fire
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/fire.gif
   - name: forest_spirit
@@ -42,10 +52,16 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/happy-bmo.gif
   - name: hug
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/hug.png
+  - name: illuminati
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/illuminati.jpg
+  - name: isaac
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/biblethump.png
   - name: kappa
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/kappa.png
   - name: kappapride
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/kappapride.png
+  - name: katamari
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/katamari.gif
   - name: laugh
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/laugh.gif
   - name: leftshark_dance
@@ -62,6 +78,12 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/ness_on_bike.gif
   - name: nice
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nice.jpg
+  - name: not_sure_if
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/not_sure_if.png
+  - name: nu
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nu.gif
+  - name: nuke
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nuke.png
   - name: nyan
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nyan.gif
   - name: octorok_blue
@@ -106,6 +128,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/salt.png
   - name: sanic
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/sanic.png
+  - name: slime
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/slime.png
   - name: stop
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/stop.png
   - name: the_dude
@@ -116,6 +140,10 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/this_is_fine.png
   - name: troll
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/troll.png
+  - name: vault_boy
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/vault_boy.png
+  - name: vonnegut
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/vonnegut.png
   - name: whiskey
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/whiskey.jpg
   - name: wut
