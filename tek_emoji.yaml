@@ -12,8 +12,12 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/allthethings.png
   - name: bbod
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/bbod.gif
+  - name: blood
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/blood.png
   - name: bloodtrail
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/bloodtrail.png
+  - name: bowie
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/bowie.jpg
   - name: burgerspin
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/burgerspin.gif
   - name: cake
