@@ -54,6 +54,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/goomba.gif
   - name: happy-bmo
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/happy-bmo.gif
+  - name: hoisted
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/hoisted.png
   - name: hug
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/hug.png
   - name: illuminati
