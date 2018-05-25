@@ -96,6 +96,10 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/ness_on_bike.gif
   - name: nice
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nice.jpg
+  - name: no
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/no.png
+  - name: nooooo
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nooooo.png
   - name: nonbinary_flag
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nonbinary_flag.png
   - name: nonbinary_heart
