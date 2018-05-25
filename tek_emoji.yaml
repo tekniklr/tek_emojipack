@@ -165,7 +165,7 @@ emojis:
   - name: stop
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/stop.png
   - name: thank_you
-    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/thank_you.jpg
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/thank_you.png
   - name: the_dude
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/the_dude.jpg
   - name: there_was_an_attempt
@@ -183,15 +183,15 @@ emojis:
   - name: vonnegut
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/vonnegut.png
   - name: waldorf
-    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/waldorf.jpg
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/waldorf.png
   - name: well_actually
-    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/well_actually.jpg
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/well_actually.png
   - name: whiskey
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/whiskey.jpg
   - name: why
-    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/why
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/why.png
   - name: whyyy
-    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/whyyy
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/whyyy.png
   - name: wut
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/wut.png
   - name: yes
