@@ -4,12 +4,20 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/0.png
   - name: 1up
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/1up.png
+  - name: agender_flag
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/agender_flag.png
+  - name: agender_heart
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/agender_heart.png
   - name: air_quotes_close
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/air_quotes_close.gif
   - name: air_quotes_open
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/air_quotes_open.gif
   - name: allthethings
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/allthethings.png
+  - name: asexual_flag
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/asexual_flag.png
+  - name: asexual_heart
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/asexual_heart.png
   - name: bbod
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/bbod.gif
   - name: blood
@@ -50,6 +58,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/fire.gif
   - name: forest_spirit
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/forest_spirit.gif
+  - name: genderqueer_flag
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/genderqueer_flag.png
   - name: goomba
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/goomba.gif
   - name: happy-bmo
@@ -76,6 +86,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/lemongrab.gif
   - name: lsp
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/lsp.gif
+  - name: metroid
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/metroid.png
   - name: mr_saturn
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/mr_saturn.gif
   - name: neko_hero
@@ -84,6 +96,10 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/ness_on_bike.gif
   - name: nice
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nice.jpg
+  - name: nonbinary_flag
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nonbinary_flag.png
+  - name: nonbinary_heart
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nonbinary_heart.png
   - name: not_sure_if
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/not_sure_if.png
   - name: nu
@@ -100,6 +116,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/old-man-yells-at-cloud.jpg
   - name: old_man
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/old_man.gif
+  - name: party_dumpster_fire
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/party_dumpster_fire.gif
   - name: parrot_boom
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/parrot_boom.gif
   - name: parrot_confused
@@ -116,8 +134,12 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pizzaspin.gif
   - name: psyduck
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/psyduck.png
+  - name: pumpkin_pie
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pumpkin_pie.png
   - name: pundog
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pundog.png
+  - name: rainbow_fire
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/rainbow_fire.gif
   - name: reverse_reverse_scorpion
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/reverse_reverse_scorpion.png
   - name: reverse_scorpion
@@ -136,22 +158,40 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/sanic.png
   - name: slime
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/slime.png
+  - name: smart
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/smart.png
+  - name: statler
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/statler.png
   - name: stop
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/stop.png
+  - name: thank_you
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/thank_you.jpg
   - name: the_dude
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/the_dude.jpg
   - name: there_was_an_attempt
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/there_was_an_attempt.png
   - name: this_is_fine
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/this_is_fine.png
+  - name: trans_flag
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/trans_flag.png
+  - name: trans_heart
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/trans_heart.png
   - name: troll
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/troll.png
   - name: vault_boy
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/vault_boy.png
   - name: vonnegut
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/vonnegut.png
+  - name: waldorf
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/waldorf.jpg
+  - name: well_actually
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/well_actually.jpg
   - name: whiskey
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/whiskey.jpg
+  - name: why
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/why
+  - name: whyyy
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/whyyy
   - name: wut
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/wut.png
   - name: yes
