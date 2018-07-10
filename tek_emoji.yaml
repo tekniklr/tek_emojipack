@@ -148,6 +148,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pundog.png
   - name: rainbow_fire
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/rainbow_fire.gif
+  - name: rainbow_heart
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/rainbow_heart.png
   - name: reverse_reverse_scorpion
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/reverse_reverse_scorpion.png
   - name: reverse_scorpion
