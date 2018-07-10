@@ -46,6 +46,10 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/disapproval.png
   - name: dobbshead
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/dobbshead.gif
+  - name: drake_no
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/drake_no.jpg
+  - name: drake_yes
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/drake_yes.jpg
   - name: dumpster_fire
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/dumpster_fire.jpg
   - name: facepalm
