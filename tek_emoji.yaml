@@ -146,6 +146,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/meh.png
   - name: metroid
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/metroid.png
+  - name: mood
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/mood.png
   - name: mr_burns
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/mr_burns.gif
   - name: mr_saturn
@@ -188,6 +190,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pancakes.png
   - name: pants_fire
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pants_fire.png
+  - name: papyrus
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/papyrus.png
   - name: party_dumpster_fire
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/party_dumpster_fire.gif
   - name: parrot_boom
@@ -246,6 +250,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/salt.png
   - name: sanic
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/sanic.png
+  - name: sans
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/sans.png
   - name: slime
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/slime.png
   - name: smart
@@ -270,6 +276,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/this.png
   - name: this_is_fine
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/this_is_fine.png
+  - name: toriel
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/toriel.png
   - name: trans_flag
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/trans_flag.png
   - name: trans_heart
@@ -280,10 +288,14 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/troll.png
   - name: underdog
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/underdog.gif
+  - name: undyne
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/undyne.png
   - name: vault_boy
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/vault_boy.png
   - name: vonnegut
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/vonnegut.png
+  - name: verified
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/verified.png
   - name: waldorf
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/waldorf.png
   - name: well_actually
