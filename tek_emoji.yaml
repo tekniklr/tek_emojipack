@@ -152,6 +152,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/mr_burns.gif
   - name: mr_saturn
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/mr_saturn.gif
+  - name: napstablook
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nabstablook.png
   - name: neko_hero
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/neko_hero.png
   - name: ness_on_bike
@@ -192,6 +194,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pants_fire.png
   - name: papyrus
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/papyrus.png
+  - name: papyrus_cry
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/papyrus_cry.gif
   - name: party_dumpster_fire
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/party_dumpster_fire.gif
   - name: parrot_boom
