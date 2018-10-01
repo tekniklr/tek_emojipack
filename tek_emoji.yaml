@@ -4,6 +4,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/0.png
   - name: 1up
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/1up.png
+  - name: actually
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/actually.png
   - name: agender_flag
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/agender_flag.png
   - name: agender_heart
@@ -14,22 +16,38 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/air_quotes_open.gif
   - name: allthethings
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/allthethings.png
+  - name: angry_scream
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/angry_scream.png
   - name: asexual_flag
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/asexual_flag.png
   - name: asexual_heart
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/asexual_heart.png
+  - name: awkward
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/awkward.png
+  - name: babadook
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/babadook.jpg
   - name: bbod
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/bbod.gif
+  - name: blackheart
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/blackheart.png
   - name: blood
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/blood.png
   - name: bloodtrail
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/bloodtrail.png
+  - name: boo
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/boo.gif
   - name: bowie
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/bowie.jpg
+  - name: broom
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/broom.gif
   - name: burgerspin
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/burgerspin.gif
+  - name: butt
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/butt.gif
   - name: cake
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/cake.jpg
+  - name: chefs_kiss
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/chefs_kiss.png
   - name: chrono_yes
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/chrono_yes.gif
   - name: cmonbruh
@@ -38,20 +56,30 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/coin.gif
   - name: crow
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/crow.png
+  - name: d20
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/d20.png
   - name: dancing-baby-finn
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/dancing-baby-finn.gif
   - name: dickbutt
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/dickbutt.jpg
+  - name: disappear
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/disappear.gif
   - name: disapproval
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/disapproval.png
+  - name: dogcow
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/dogcow.gif
   - name: dobbshead
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/dobbshead.gif
   - name: drake_no
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/drake_no.jpg
   - name: drake_yes
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/drake_yes.jpg
+  - name: dril
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/dril.jpg
   - name: dumpster_fire
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/dumpster_fire.jpg
+  - name: eeyore
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/eeyore.gif
   - name: facepalm
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/facepalm.png
   - name: failfish
@@ -62,18 +90,28 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/fire.gif
   - name: forest_spirit
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/forest_spirit.gif
+  - name: fuuuck
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/fuuuck.png
   - name: genderqueer_flag
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/genderqueer_flag.png
   - name: goomba
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/goomba.gif
+  - name: gregg
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/gregg.gif
   - name: happy-bmo
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/happy-bmo.gif
+  - name: hand_wave
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/hand_wave.gif
+  - name: heart_eyes
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/heart_eyes.gif
   - name: hoisted
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/hoisted.png
   - name: hug
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/hug.png
   - name: illuminati
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/illuminati.jpg
+  - name: instant_pot
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/instant_pot.png
   - name: isaac
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/biblethump.png
   - name: kappa
@@ -88,10 +126,28 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/leftshark_dance.gif
   - name: lemongrab
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/lemongrab.gif
+  - name: lightbulb
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/lightbulb.gif
+  - name: lightsaber
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/lightsaber.png
   - name: lsp
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/lsp.gif
+  - name: lying_cat
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/lying_cat.png
+  - name: mae
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/mae.gif
+  - name: mario_luigi_dance
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/mario_luigi_dance.gif
+  - name: max_headroom
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/max_headroom.png
+  - name: mc_hammer
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/mc_hammer.gif
+  - name: meh
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/meh.png
   - name: metroid
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/metroid.png
+  - name: mr_burns
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/mr_burns.gif
   - name: mr_saturn
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/mr_saturn.gif
   - name: neko_hero
@@ -99,7 +155,7 @@ emojis:
   - name: ness_on_bike
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/ness_on_bike.gif
   - name: nice
-    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nice.jpg
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nice.png
   - name: no
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/no.png
   - name: nooooo
@@ -108,6 +164,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nonbinary_flag.png
   - name: nonbinary_heart
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/nonbinary_heart.png
+  - name: not_it
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/not_it.png
   - name: not_sure_if
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/not_sure_if.png
   - name: nu
@@ -120,10 +178,16 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/octorok_blue.gif
   - name: octorok_red
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/octorok_red.gif
+  - name: oh_yeah
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/oh_yeah.png
   - name: old-man-yells-at-cloud
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/old-man-yells-at-cloud.jpg
   - name: old_man
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/old_man.gif
+  - name: pancakes
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pancakes.png
+  - name: pants_fire
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pants_fire.png
   - name: party_dumpster_fire
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/party_dumpster_fire.gif
   - name: parrot_boom
@@ -136,10 +200,22 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/parrot_deal.gif
   - name: parrot_party
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/parrot_party.gif
+  - name: pbr
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pbr.png
   - name: pdxcarpet
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pdxcarpet.gif
+  - name: philosoraptor
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/philosoraptor.jpg
+  - name: phrasing
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/phrasing.png
+  - name: pizza_party
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pizza_party.png
   - name: pizzaspin
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pizzaspin.gif
+  - name: poo_fire
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/poo_fire.jpg
+  - name: poo_rainbow
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/poo_rainbow.gif
   - name: psyduck
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/psyduck.png
   - name: pumpkin_pie
@@ -150,10 +226,14 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/rainbow_fire.gif
   - name: rainbow_heart
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/rainbow_heart.png
+  - name: rainbow_party
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/rainbow_party.gif
   - name: reverse_reverse_scorpion
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/reverse_reverse_scorpion.png
   - name: reverse_scorpion
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/reverse_scorpion.png
+  - name: rip
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/rip.png
   - name: ron_swanson
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/ron_swanson.png
   - name: rupee
@@ -170,24 +250,36 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/slime.png
   - name: smart
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/smart.png
+  - name: spidey_sense
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/spidey_sense.png
   - name: statler
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/statler.png
   - name: stop
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/stop.png
+  - name: swolekitten
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/swolekitten.png
   - name: thank_you
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/thank_you.png
   - name: the_dude
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/the_dude.jpg
+  - name: the_more_you_know
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/the_more_you_know.gif
   - name: there_was_an_attempt
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/there_was_an_attempt.png
+  - name: this
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/this.png
   - name: this_is_fine
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/this_is_fine.png
   - name: trans_flag
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/trans_flag.png
   - name: trans_heart
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/trans_heart.png
+  - name: trogdor
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/trogdor.png
   - name: troll
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/troll.png
+  - name: underdog
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/underdog.gif
   - name: vault_boy
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/vault_boy.png
   - name: vonnegut
