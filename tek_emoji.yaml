@@ -56,6 +56,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/coin.gif
   - name: crow
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/crow.png
+  - name: cyber_heart
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/cyber_heart.png
   - name: d20
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/d20.png
   - name: dancing-baby-finn
