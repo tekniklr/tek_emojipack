@@ -26,6 +26,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/awkward.png
   - name: babadook
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/babadook.jpg
+  - name: ban_cars
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/ban_cars.png
   - name: bbod
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/bbod.gif
   - name: blackheart
