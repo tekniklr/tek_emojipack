@@ -192,8 +192,6 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/old-man-yells-at-cloud.jpg
   - name: old_man
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/old_man.gif
-  - name: pancakes
-    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pancakes.png
   - name: pants_fire
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/pants_fire.png
   - name: papyrus
