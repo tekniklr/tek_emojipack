@@ -106,8 +106,6 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/happy-bmo.gif
   - name: hand_wave
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/hand_wave.gif
-  - name: heart_eyes
-    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/heart_eyes.gif
   - name: hoisted
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/hoisted.png
   - name: hug
