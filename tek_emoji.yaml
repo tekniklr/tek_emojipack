@@ -90,8 +90,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/failfish.png
   - name: fart
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/fart.png
-  - name: fire
-    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/fire.gif
+  - name: fire_anim
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/fire_anim.gif
   - name: forest_spirit
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/forest_spirit.gif
   - name: fuuuck
