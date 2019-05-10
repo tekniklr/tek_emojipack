@@ -46,8 +46,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/burgerspin.gif
   - name: butt
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/butt.gif
-  - name: cake
-    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/cake.jpg
+  - name: cake_portal
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/cake_portal.jpg
   - name: chefs_kiss
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/chefs_kiss.png
   - name: chrono_yes
