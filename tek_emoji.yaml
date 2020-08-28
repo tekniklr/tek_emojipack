@@ -256,6 +256,8 @@ emojis:
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/sanic.png
   - name: sans
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/sans.png
+  - name: shocked_pikachu
+    src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/shocked_pikachu.jpg
   - name: slime
     src:  https://raw.githubusercontent.com/tekniklr/tek_emojipack/master/emoji/slime.png
   - name: smart
